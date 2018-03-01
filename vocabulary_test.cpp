@@ -47,7 +47,7 @@ int main()
 		}
 	}
 
-	bool done;
+	bool done = false;
 	while(!done)
 	{
 		if(question.empty())
